@@ -130,6 +130,12 @@ dmypy.json
 
 # Pictures
 *.png
+*.jpg
 
 # CV cache
 cache_CV
+
+# data
+stanford_cars
+*.tgz
+*.mat
