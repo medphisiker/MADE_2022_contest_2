@@ -142,6 +142,7 @@ stanford_cars
 
 # checkpoints
 lightning_logs
+models_check
 
 # find learning rate
 .lr_find_*
