@@ -139,3 +139,9 @@ cache_CV
 stanford_cars
 *.tgz
 *.mat
+
+# checkpoints
+lightning_logs
+
+# find learning rate
+.lr_find_*
